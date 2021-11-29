@@ -190,21 +190,21 @@ Often times you might want to make the "interface" subpackage have a "user-frien
 
 The new structure of the project looks like the following
 
-```shell
+```console
 .
 ├── mypkg
-|   ├── __init__.py
-|   ├── _bar
-|   |   ├── __init__.py
-|   |   └── fred.py
-|   ├── bar
-|   |   └── __init__.py
-|   ├── _foo
-|   |   ├── __init__.py
-|   |   ├── baz.py
-|   |   └── qux.py
-|   └── foo
-|       └── __init__.py
+│   ├── __init__.py
+│   ├── _bar
+│   │   ├── __init__.py
+│   │   └── fred.py
+│   ├── bar
+│   │   └── __init__.py
+│   ├── _foo
+│   │   ├── __init__.py
+│   │   ├── baz.py
+│   │   └── qux.py
+│   └── foo
+│       └── __init__.py
 └── main.py
 ```
 
