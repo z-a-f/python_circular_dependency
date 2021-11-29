@@ -3,10 +3,9 @@ from bar import bar1, bar2
 
 
 def main():
-  f = foo1()
-  b1 = bar1()
-  b2 = bar2()
-  print(f)
+  foo1()
+  bar1()
+  bar2()
 
 
 if __name__ == '__main__':

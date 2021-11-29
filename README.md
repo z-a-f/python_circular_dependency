@@ -4,8 +4,8 @@
 
 All credit goes to [James Murphy](https://github.com/mCodingLLC):
 
-- [GitHub Link](https://github.com/mCodingLLC/VideosSampleCode/tree/master/videos/082_avoiding_import_loops_in_python)
-- [YouTube Link](https://www.youtube.com/watch?v=UnKa_t-M_kM)
+- [GitHub Link](https://github.com/mCodingLLC/)
+- [YouTube Link](https://www.youtube.com/channel/UCaiL2GDNpLYH6Wokkk1VNcg)
 
 ## Cases:
 
